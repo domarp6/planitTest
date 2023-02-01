@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvC8ke2q5wT6eWtybkgJ0EohmU01nrYY7uzC2sDSF/wWQ0Oe/P/HWrm1W2XjicVvESkS3ix9gvjXy01+ZKQo8A==",
+  "success": true,
+  "projectFilePath": "/Users/pramodbommisetty/Projects/planitTest/planitTest/planitTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/pramodbommisetty/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/microsoft.testplatform.objectmodel/17.3.2/microsoft.testplatform.objectmodel.17.3.2.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/microsoft.testplatform.testhost/17.3.2/microsoft.testplatform.testhost.17.3.2.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/selenium.webdriver/4.8.0/selenium.webdriver.4.8.0.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/selenium.webdriver.chromedriver/109.0.5414.7400/selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512",
+    "/Users/pramodbommisetty/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
